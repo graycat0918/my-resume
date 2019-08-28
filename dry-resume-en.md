@@ -1,11 +1,12 @@
 
-<img class="" src='dry.png' style='float:right; width:162.4px;height:226.4px'/>
+<img class="" src='img/dry.png' style='float:right; width:162.4px;height:226.4px'/>
 
 <h1> Ruyao Du</h1>
 
 - **Phone**: 138 6713 5134
 - **Gmail**: graycat0918@gmail.com
 - **FoxMail**: duruyao@foxmail.com
+- **Outlook**: duruyao@outlook.com
 - **Telegram**: @graycat0918
 - **WeChat**: a707270372
 
@@ -16,17 +17,17 @@
 - **Ch-Name**: 杜如遥
 - **En-Name**: Ruyao Du
 - **Sex**: Male
-- **Education**: Undergraduate(3rd year of university)
-- **Technology Blog**: **[https://graycat0918.github.io](https://graycat0918.github.io/)**(updated three times a month)
+- **Education**: Undergraduate(4th year of university)
+- **GitHub**: **[https://github.com/graycat0918](https://github.com/graycat0918)**
+- **Technology Blog**: **[https://graycat0918.github.io](https://graycat0918.github.io/)**
 - **Programing Feature**: Taking programming specification and quality of algorithm seriously. Changing the code multiple times to make sure everything is perfect.
-- **Goal OF Internship**: C++ Developer, Java Developer, Android Mobile Developer
-- **Time OF Internship**: I can work right away, 5 to 6 days per week(8 to 9 hours per day)
-- **Temporary Residence**: Jianggan District, Hangzhou, Zhejiang, China
-
+- **Post Of Internship**: C++ Developer is best, Android Mobile Developer is acceptable.
+- **Time Of Working**: I can work right away, 5 to 6 days per week(8 to 9 hours per day).
+- **Acceptable Cities**: Jiangsu Province, Zhejiang Province or Shanghai.
 
 ---
 
-<img class="" src='HDU.png' style='float:right; width:150px;height:150px'/>
+<img class="" src='img/hdu.png' style='float:right; width:150px;height:150px'/>
 
 ## EDUCATION BACKGROUND
 
@@ -38,42 +39,49 @@
 
 - **Grade**:
 
-C & Design | C++ | Adv Math B | Data Structure | CCP Design | OS Design | SE
-:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: 
-(85 + 100)/200 | 87/100 | (90 + 85)/200 | 80/100 | Excellent | Excellent | 94/100
+C & Design | C++ | Adv Math | Data Structure | CCP Design | OS Design | SE  
+:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:   
+(85 + 100)/200 | 87/100 | (90 + 85)/200 | 80/100 | Excellent | Excellent | 94/100   
+
 ---
 
-## PROJECT EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
-### PERSONAL PROJECT
+### PROJECT EXPERIENCE
 
-- **<font color="#1E90FF">「2016～2017」</font>「A maze game running in Windows OS using C language」**
+- **「2016～2017」** A maze game running in Windows OS using C language.
 
-- **<font color="#1E90FF">「2017～2018」</font>「A music downloader aiming at NetEase Music & QQ Music & WeSing using Python-3」**
+- **「2017～2018」** A project of image identification using C++ & OpenCV.
 
-- **<font color="#1E90FF">「2018～2019」</font>「A spider project which can get crowding index of main road of Hangzhou in time.」**
+- **「2017～2018」** A **[music downloader](https://github.com/graycat0918/get-tool)** aiming at NetEase Music & QQ Music & WeSing using Python 3.
 
-- **<font color="#1E90FF">「2018～2019」</font>「Develop a remote hacking tool aiming at Linux server using Python-2」**
+- **「2018～2019」** A spider project which can get crowding index of main road of Hangzhou in time.
 
-- **<font color="#1E90FF">「2018～2019」</font>「Develop a sudoku game using C++」**
+- **「2018～2019」** Developed a **[remote hacking tool](https://github.com/graycat0918/remote-control)** aiming at Linux server using Python 2.
 
-### GROUP PROJECT
-
-
-- **<font color="#1E90FF">「2017～2018」</font>「A project of image identification using C++ & OpenCV」**
+- **「2019～2020」** Developed a **[messages application](https://github.com/graycat0918/messages-app)** for Android OS using Java & Kotlin.
 
 
+### LEARN EXPERIENCE
 
-- **<font color="1E90FF">「2018～now 」</font>「Develop messaging application for Android OS using Java & Kotlin」**
+- **「2018～2019」** In-depth studied C and C++ again, this is my **[study notes](https://github.com/graycat0918/cxx-learn)**.
+
+- **「2019～2020」** Studied and organized algorithm questions in the **[algorithm repository](https://github.com/graycat0918/algorithm-learn)**.
+
+- **「2019～2020」** Learned base of machine-learning by myself, please see **[my repository](https://github.com/graycat0918/machine-learn)**.
+
+### INTERN EXPERIENCE
+
+- **「2019～2020」** I had been an intern at **[Codvision](http://www.codvision.com/maquan)**, and working as a C++ developer who is responsible for the TURN-Server. During my work, I learned the theoretical basis of network communication and wrote an article called **[TURN-Server Manager Study Notes](https://github.com/graycat0918/turn-server-learn)**. And my ability of C has improved after reading lots of codes from open sources projects. This is my work, a **[auto-test program](ttps://github.com/graycat0918/turn-server-test)** for TURN-Server in multiple roads written by C++.
 
 ---
 
 ## PROFESSIONAL SKILL
 
 - **Computer Languages**: C, C++, Python, Java, Shell, XML, Markdown...
-- **Code Repository Manager**: Git, GitLab, GitHub
-- **IDE & Editor**: Virsual Studio, Pycharm, Eclipse, Android Studio, Vim, VS code...
+- **Code Repository Manager**: Git, GitLab, GitHub, Gitee
+- **Development Tools**: Vim、Clion、IDEA、Pycharm、Android Studio、Virsual Studio、Eclipse...
 - **Linux**: I spent a lot of time learning Linux and wrote a lot of articles about it in my **[blog page](https://graycat0918.github.io)**.
-- **Market Research**: I am good at understanding the market of demand by editing questionnaire.
-- **Learning Ability**: I am not a genius who learned computers from young age, but I like programing, and ready to learn more if need.
+- **Traditional Culture**: I like traditional Chinese poetry and have tried to write some **[works](https://github.com/graycat0918/my-poem)**.
+- **Learning Ability**: Since I was in contact with computers many years ago, I loved her until now. And I always share technology with others and learn from them.
 - **Others**: I have learned lots of from web because of interest, and like to organize my own learning experience to write blog to help more people who need help.
