@@ -39,9 +39,9 @@
 
 - **成绩**:
 
-C 语言 & 课设 | C++ | 高数 | 数据结构 | 组成原理 课设 | 操作系统 课设 | 软件工程    
-:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:   
-(85 + 100)/200 | 87/100 | (90 + 85)/200 | 80/100 | 优秀 | 优秀 | 94/100 
+| C 语言 & 课设 | C++ | 高数 | 数据结构 | 组成原理 课设 | 操作系统 课设 | 软件工程 |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| (85 + 100)/200 | 87/100 | (90 + 85)/200 | 80/100 | 优秀 | 优秀 | 94/100 |
 
 ---
 
@@ -78,9 +78,9 @@ C 语言 & 课设 | C++ | 高数 | 数据结构 | 组成原理 课设 | 操作�
 
 ## 个人技能
 
-- **计算机语言**: C、C++、Python、Java、Shell、XML、Markdown……
+- **计算机语言**: C、C++、Python、Java、Shell、XML、Markdown…
 - **分布式管理**: Git、GitLab、GitHub、Gitee
-- **常用工具**: Vim、Clion、IDEA、Pycharm、Android Studio、Virsual Studio、Eclipse……
+- **常用工具**: Vim、GCC、GDB、Clion、IDEA、Pycharm、Android Studio、Virsual Studio、Eclipse…
 - **Linux**: 花过很多时间，写了很多篇幅不短的文章，详情见 **[技术博客](https://graycat0918.github.io)**
 - **文案方面**: 国学功底扎实，喜欢传统文化并有一些浅薄的 **[诗词作品](https://github.com/graycat0918/my-poem)**
 - **学习能力**: 4年前接触计算机，热爱至今，经常和别人交流新技术、向别人学习，见贤思齐

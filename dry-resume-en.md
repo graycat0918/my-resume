@@ -39,9 +39,9 @@
 
 - **Grade**:
 
-C & Design | C++ | Adv Math | Data Structure | CCP Design | OS Design | SE  
-:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:   
-(85 + 100)/200 | 87/100 | (90 + 85)/200 | 80/100 | Excellent | Excellent | 94/100   
+| C & Design | C++ | Adv Math | Data Structure | CCP Design | OS Design | SE |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| (85 + 100)/200 | 87/100 | (90 + 85)/200 | 80/100 | Excellent | Excellent | 94/100 |   
 
 ---
 
@@ -80,7 +80,7 @@ C & Design | C++ | Adv Math | Data Structure | CCP Design | OS Design | SE
 
 - **Computer Languages**: C, C++, Python, Java, Shell, XML, Markdown...
 - **Code Repository Manager**: Git, GitLab, GitHub, Gitee
-- **Development Tools**: Vim、Clion、IDEA、Pycharm、Android Studio、Virsual Studio、Eclipse...
+- **Development Tools**: Vim, GCC, GDB, Clion, IDEA, Pycharm, Android Studio, Virsual Studio, Eclipse...
 - **Linux**: I spent a lot of time learning Linux and wrote a lot of articles about it in my **[blog page](https://graycat0918.github.io)**.
 - **Traditional Culture**: I like traditional Chinese poetry and have tried to write some **[works](https://github.com/graycat0918/my-poem)**.
 - **Learning Ability**: Since I was in contact with computers many years ago, I loved her until now. And I always share technology with others and learn from them.
