@@ -23,7 +23,7 @@
 - **编程特点**: 对 编程规范 及 算法质量 要求严格，善于推敲琢磨，力求事无巨细
 - **工作方向**: 底层开发（C/C++），流媒体开发（FFmpeg），移动端开发（Android）
 - **工作时间**: 可立刻开始，每周5～6天（每天8～9小时）
-
+- **<font color="red">特别声明</font>**: 本简历中含多个项目链接，欢迎点击浏览
 ---
 
 <img class="" src='img/hdu.png' style='float:right; width:150px;height:150px'/>
@@ -60,7 +60,7 @@
 
 - **「2019～2020」** 使用 Java & Cotlin **团队**开发适用 Android 平台的 **[短信应用](https://github.com/graycat0918/messages-app)**
 
-- **「2020～2021」** 使用 C 编写主流算法的 函数库，见 **[排序算法库](https://github.com/graycat0918/sort-algo-demo)** / **[搜索算法库](https://github.com/graycat0918/search-algo-demo)**
+- **「2019～2020」** 使用 C 编写主流算法的 函数库，见 **[排序算法库](https://github.com/graycat0918/sort-algo-demo)** / **[搜索算法库](https://github.com/graycat0918/search-algo-demo)**
 
 - **「2020～2021」** 使用 C 开发 高阶数独快速 求解/生成 程序，见 **[Sudoku-demo](https://github.com/graycat0918/sudoku-demo)**
 
@@ -93,7 +93,7 @@
 
 
 - **开发工具**
-    - **高频使用**: Vim、GCC、GDB、Tmux...
+    - **高频使用**: Vim、GCC、GDB、Make、Tmux...
 
     - **偶尔使用**: Clion、IDEA、Pycharm、Android Studio、Virsual Studio、Eclipse…
 
@@ -103,6 +103,8 @@
     - **用户级别**: 作为Ubuntu的老用户，很愿意向更多人推荐他，为新手写过基础操作配置的文章，见 **[(1)](https://graycat0918.github.io/2018/11/03/linux-base-1/#more) [(2)](https://graycat0918.github.io/2019/09/06/linux-base-2/#more)**
 
     - **开发级别**: 花过时间研究其操作系统，写了很多浅显但篇幅不短的文章，浏览量不低，见 **[(1)](https://graycat0918.github.io/2018/10/02/compile-kernel/#more) [(2)](https://graycat0918.github.io/2018/10/10/kernel-modules-program/#more) [(3)](https://graycat0918.github.io/2018/10/31/process-management/#more)**
+
+- **网络编程**: 熟悉TCP/IP、HTTP、UDP等主流协议，掌握Socket并发网络编程方法
 
 - **文案方面**: 国学功底扎实，喜欢传统文化，偶尔写点酸文假醋的诗词，整理了一些到 **[我的诗词库](https://github.com/graycat0918/my-poem)**
 
