@@ -22,7 +22,8 @@
 - **技术博客**: **[https://graycat0918.github.io](https://graycat0918.github.io/)**（正常情况，每月三更）
 - **编程特点**: 对 编程规范 及 算法质量 要求严格，善于推敲琢磨，力求事无巨细
 - **工作方向**: 底层开发（C/C++），流媒体开发（FFmpeg），移动端开发（Android）
-- **工作时间**: 可立刻开始，每周5～6天（每天8～9小时）
+- **入职时间**: 随时开始
+- **意向城市**: 杭州、上海
 - **<font color="red">特别声明</font>**: 本简历中含多个项目链接，欢迎点击浏览
 ---
 
@@ -60,11 +61,13 @@
 
 - **「2019～2020」** 使用 Java & Cotlin **团队**开发适用 Android 平台的 **[短信应用](https://github.com/graycat0918/messages-app)**
 
-- **「2020～2021」** 使用 C 编写主流算法的 函数库，见 **[排序算法库](https://github.com/graycat0918/sort-algo-demo)** / **[搜索算法库](https://github.com/graycat0918/search-algo-demo)**
+- **「2019～2020」** 使用 C 编写主流算法的 函数库，见 **[排序算法库](https://github.com/graycat0918/sort-algo-demo)** / **[搜索算法库](https://github.com/graycat0918/search-algo-demo)**
 
 - **「2020～2021」** 使用 C 开发 高阶数独快速 求解/生成 程序，见 **[Sudoku-demo](https://github.com/graycat0918/sudoku-demo)**
 
 - **「2019～2020」** 开发基于 密码学 原理的 加密视频会议系统（未完成）
+
+- **「2019～2020」** 开发 Linux 终端下的 简单机器人控制系统，见 **[C版本](https://github.com/graycat0918/i-am-robot)** / **[C++版本](https://github.com/graycat0918/i-am-robot-cxx)**
 
 ### 学习经历
 
@@ -93,7 +96,7 @@
 
 
 - **开发工具**
-    - **高频使用**: Vim、GCC、GDB、Tmux...
+    - **高频使用**: Vim、GCC、GDB、Make、Tmux...
 
     - **偶尔使用**: Clion、IDEA、Pycharm、Android Studio、Virsual Studio、Eclipse…
 
@@ -108,7 +111,7 @@
 
 - **文案方面**: 国学功底扎实，喜欢传统文化，偶尔写点酸文假醋的诗词，整理了一些到 **[我的诗词库](https://github.com/graycat0918/my-poem)**
 
-- **学习能力**: 4年前接触计算机，热爱至今，经常和别人交流新技术、喜欢向高手学习，见贤思齐
+- **学习能力**: 4年前接触计算机，热爱至今，经常和别人交流技术、喜欢向高手学习，见贤思齐
 
 - **性格方面**: 追求完美，不怕折腾，常更新写 **[技术博客](https://graycat0918.github.io/)**，希望能帮助有需要的人，饮水思源，良性循环
 

@@ -67,7 +67,7 @@
 
 - **「2019～2020」** 开发基于 密码学 原理的 加密视频会议系统（未完成）
 
-- **「2019～2020」** 开发 Linux 终端下的 **[简单机器人控制系统](https://github.com/graycat0918/i-am-robot)**
+- **「2019～2020」** 开发 Linux 终端下的 简单机器人控制系统，见 **[C版本](https://github.com/graycat0918/i-am-robot)** / **[C++版本](https://github.com/graycat0918/i-am-robot-cxx)**
 
 ### 学习经历
 
